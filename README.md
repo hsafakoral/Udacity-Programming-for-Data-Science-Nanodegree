@@ -5,11 +5,11 @@ Date and Time Created
 
 Project Title
 
-UDACITY-PROGRAMMING for DATA SCIENCE - NANODEGREE PROGRAM BIKE SHARE ANALYSIS for 3 Metropols
+Programming-for-Data-Science-Nanodegree BIKE SHARE ANALYSIS for 3 Cities
 
 Description
 
-We've made an anaylsis for bike share datas for the cities New York City, Washington and Chicago
+We have made anaylsis for bike share datas for the cities New York City, Washington and Chicago
 
 Files used
 
