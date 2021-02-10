@@ -1,3 +1,3 @@
-https://stackoverflow.com/ , https://github.com/ --> Minor Problem Solutions when Got Stacked
+https://stackoverflow.com/ , https://github.com/ --> Minor Problem Solutions when Got Stacked.
 
 
