@@ -1,7 +1,8 @@
 # Udacity-Programming-for-Data-Science-Nanodegree
+
 Date and Time Created
 
-05.02.2021 @ 23:10
+10.02.2021 @ 14:30
 
 Project Title
 
@@ -17,4 +18,4 @@ bikeshare.py washington.csv --> Data file of Washington bikeshare analysis, will
 
 Requirements This program was written in Python
 
-Credits Udacity Courses
+Credits Udacity Courses.
